@@ -2,7 +2,8 @@ Técnico Virtual de Redes 🤖
 Este repositório contém o código-fonte de um chatbot interativo projetado para diagnosticar problemas comuns de conexão com a internet. O projeto foi desenvolvido como uma solução prática para um problema real, utilizando apenas tecnologias web front-end: HTML, CSS e JavaScript.
 
 
-<img width="666" height="774" alt="image" src="https://github.com/user-attachments/assets/f4ef7a97-0227-4d13-b6f1-269884c10086" />
+<img src="https://github.com/user-attachments/assets/f4ef7a97-0227-4d13-b6f1-269884c10086" width="300" />
+
 
 Você pode testar o chatbot em funcionamento no seguinte link:
 
@@ -30,6 +31,9 @@ Necessidade de reiniciar os equipamentos;
 Isolamento do problema em um único dispositivo.
 
 A solução foi intencionalmente desenvolvida para ser leve e não depender de nenhuma biblioteca ou framework externo, garantindo que seja rápida e acessível mesmo em uma conexão de dados móveis.
+
+🎓 Contexto Acadêmico
+Este projeto foi desenvolvido como trabalho para a matéria de Redes de Computadores do curso de Ciência da Computação. O objetivo era aplicar conceitos teóricos na criação de uma solução prática para um problema relevante, demonstrando o uso da tecnologia para otimizar processos.
 
 🛠️ Tecnologias Utilizadas
 HTML5: Para a estrutura semântica da página.
